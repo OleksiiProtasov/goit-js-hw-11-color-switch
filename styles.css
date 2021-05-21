@@ -3,8 +3,6 @@
     
 }
 
-
-
 button{
     width: 100px;
     height: 100px;
@@ -14,5 +12,4 @@ button{
     margin: 200px 10px;
     border-color: tomato;
     background-color: whitesmoke;
-    
 }
